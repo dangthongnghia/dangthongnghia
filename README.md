@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I am Dang Thong Nghia, 19year old
+### I study Nha Trang Technical College of Technology
+### Information technology major
 
 <!--
 **dangthongnghia/dangthongnghia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
