@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
