@@ -8,6 +8,7 @@
 </div>
 
 ###
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 <img align="right" height="150" src="https://media.tenor.com/TNfKYA-LVToAAAAC/cute.gif"  />
 
