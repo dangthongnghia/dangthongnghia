@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Dang Thong Nghia and I'm a student, from Viet Nam</h2>
-
 ###
 
 <div align="center">
