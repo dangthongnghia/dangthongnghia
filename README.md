@@ -60,17 +60,3 @@
 
 
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/dangthongnghia/count.svg?"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ff12v77qy59qsoyuld9hgyt5j">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ff12v77qy59qsoyuld9hgyt5j&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
