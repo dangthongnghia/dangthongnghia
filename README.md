@@ -15,12 +15,12 @@ const developer = {
     name: "Dang Thong Nghia",
     location: "Vietnam 🇻🇳",
     role: "Software Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    languages: ["JavaScript", "TypeScript"],
     technologies: {
-        frontend: ["React", "Vue.js", "Next.js"],
-        backend: ["Node.js", "Express", "Spring Boot"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "AWS"]
+        frontend: ["React", "Next.js"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "Docker"]
     },
     currentFocus: "Building scalable web applications",
     openToCollaborate: true
@@ -36,8 +36,6 @@ const developer = {
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -50,12 +48,10 @@ const developer = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Cloud
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
