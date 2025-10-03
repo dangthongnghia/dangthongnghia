@@ -75,16 +75,6 @@ const developer = {
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangthongnghia&repo=project1&theme=tokyonight)](https://github.com/dangthongnghia/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangthongnghia&repo=project2&theme=tokyonight)](https://github.com/dangthongnghia/project2)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
